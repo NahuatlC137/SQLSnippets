@@ -1,2 +1,1 @@
-# VBASnippets
 # SQLSnippets
